@@ -1,0 +1,46 @@
+question,subject,marks,difficulty
+Define artificial intelligence.,AIML,2,Easy
+What is machine learning?,AIML,2,Easy
+Define supervised learning.,AIML,2,Easy
+What is a dataset?,AIML,2,Easy
+Define overfitting.,AIML,2,Easy
+Explain decision tree classification with an example.,AIML,5,Medium
+Compare supervised and unsupervised learning.,AIML,5,Medium
+Explain the working of k nearest neighbors.,AIML,5,Medium
+Describe gradient descent in model training.,AIML,5,Medium
+Explain precision recall and F1 score.,AIML,5,Medium
+Design a machine learning pipeline for an imbalanced dataset and justify your model selection.,AIML,10,Hard
+Analyze overfitting and propose a regularization strategy for a neural network.,AIML,10,Hard
+Compare multiple classification models and justify the best model using evaluation metrics.,AIML,10,Hard
+Design an end to end NLP classification system and explain its evaluation.,AIML,10,Hard
+Analyze a model failure and propose a complete feature engineering and validation strategy.,AIML,10,Hard
+Define a computer network.,CN,2,Easy
+What is an IP address?,CN,2,Easy
+Define the OSI model.,CN,2,Easy
+What is a router?,CN,2,Easy
+Define network topology.,CN,2,Easy
+Explain the functions of the seven OSI layers.,CN,5,Medium
+Compare TCP and UDP with applications.,CN,5,Medium
+Explain distance vector routing.,CN,5,Medium
+Explain subnetting with a suitable example.,CN,5,Medium
+Describe the working of DNS and its importance.,CN,5,Medium
+Design an IP subnetting scheme for multiple departments and justify address allocation.,CN,10,Hard
+Analyze a routing loop problem and propose a suitable solution.,CN,10,Hard
+Design a secure network architecture and explain routing and access control.,CN,10,Hard
+Analyze network congestion and propose an appropriate congestion control strategy.,CN,10,Hard
+Troubleshoot a complex network failure involving routing and subnet configuration.,CN,10,Hard
+Define cloud computing.,Cloud Computing,2,Easy
+What is an EC2 instance?,Cloud Computing,2,Easy
+Define a virtual private cloud.,Cloud Computing,2,Easy
+What is Amazon S3?,Cloud Computing,2,Easy
+Define a security group.,Cloud Computing,2,Easy
+Compare public and private cloud deployment models.,Cloud Computing,5,Medium
+Explain VPC peering with a suitable diagram.,Cloud Computing,5,Medium
+Describe the steps to host a web page on an EC2 instance.,Cloud Computing,5,Medium
+Explain how security groups control access to cloud resources.,Cloud Computing,5,Medium
+Compare object storage and block storage.,Cloud Computing,5,Medium
+Design a secure architecture connecting EC2 to a private RDS database across two VPCs.,Cloud Computing,10,Hard
+Analyze a connectivity failure involving VPC routes and security groups.,Cloud Computing,10,Hard
+Design a highly available cloud deployment and justify its components.,Cloud Computing,10,Hard
+Analyze a cloud security incident and propose layered preventive controls.,Cloud Computing,10,Hard
+Design a private multi-tier cloud architecture and explain its security and routing decisions.,Cloud Computing,10,Hard
